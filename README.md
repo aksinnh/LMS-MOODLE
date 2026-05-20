@@ -1,28 +1,3 @@
-                                 .-..-.
-   _____                         | || |
-  /____/-.---_  .---.  .---.  .-.| || | .---.
-  | |  _   _  |/  _  \/  _  \/  _  || |/  __ \
-  * | | | | | || |_| || |_| || |_| || || |___/
-    |_| |_| |_|\_____/\_____/\_____||_|\_____)
+# ANIMICRO: Implementasi Animated Microlearning untuk Peningkatan Efektivitas Pembelajaran Online Berbasis Moodle
 
-Moodle - the world's open source learning platform
-
-Moodle <https://moodle.org> is a learning platform designed to provide
-educators, administrators and learners with a single robust, secure and
-integrated system to create personalised learning environments.
-
-You can download Moodle <https://download.moodle.org> and run it on your own
-web server, ask one of our Moodle Partners <https://moodle.com/partners/> to
-assist you, or have a MoodleCloud site <https://moodle.com/cloud/> set up for
-you.
-
-Moodle is widely used around the world by universities, schools, companies and
-all manner of organisations and individuals.
-
-Moodle is provided freely as open source software, under the GNU General Public
-License <https://moodledev.io/general/license>.
-
-Moodle is written in PHP and JavaScript and uses an SQL database for storing
-the data.
-
-See <https://docs.moodle.org> for details of Moodle's many features.
+<img width="1920" height="1080" alt="Red Illustrative Benefits of Digitalization Presentation" src="https://github.com/user-attachments/assets/b7cdb93e-88f2-4de0-ac5a-12a7a0d84cde" />
